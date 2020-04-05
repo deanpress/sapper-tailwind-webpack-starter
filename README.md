@@ -1,6 +1,8 @@
-# sapper-template
+# sapper-tailwind-webpack-starter
 
 The default [Sapper](https://github.com/sveltejs/sapper) Webpack template, with TailwindCSS support.
+
+Click here for a [Rollup version](https://github.com/nhristov/sapper-template-rollup).
 
 
 ## Getting started
