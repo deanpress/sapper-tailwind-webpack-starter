@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev --no-hot",
-    "export": "sapper export",
+    "export": "npm run build:tailwind && sapper export",
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
