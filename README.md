@@ -7,7 +7,12 @@ Click here for a [Rollup version](https://github.com/nhristov/sapper-template-ro
 
 ## Getting started
 
-Fork the project, run `yarn` to install the dependencies, and run the following in two separate terminals for development:
+Set up a new project with degit:
+```
+npx degit deanpress/sapper-tailwind-webpack-starter my-project
+```
+
+Run `yarn` to install the dependencies, and run the following in two separate terminals for development:
 
 Terminal 1:
 ```
