@@ -8,16 +8,10 @@ The default template for setting up a [Sapper](https://github.com/sveltejs/sappe
 
 ### Using `degit`
 
-To create a new Sapper project based on Rollup locally, run
+To create a new Sapper project based on this repo locally, run
 
 ```bash
-npx degit "sveltejs/sapper-template#rollup" my-app
-```
-
-For a webpack-based project, instead run
-
-```bash
-npx degit "sveltejs/sapper-template#webpack" my-app
+npx degit "deanpress/sapper-tailwind-webpack-starter" my-app
 ```
 
 [`degit`](https://github.com/Rich-Harris/degit) is a scaffolding tool that lets you create a directory from a branch in a repository.
